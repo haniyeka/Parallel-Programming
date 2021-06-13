@@ -1,0 +1,2 @@
+# Parallel-Programmming
+OpenMP, Cuda
