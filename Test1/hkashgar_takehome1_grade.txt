@@ -1,0 +1,11 @@
+Total Score:  44.5/50
+
+Prob. 1:  	22/25
+	*Did not use the provided fSum variable. You declared a new variable, fSum, in each thread instead of making the existing fSum private with the private clause. (-1)
+	*Trendline equation not listed (-0.5)
+	*Trendlines should not be linear (-1)
+	*Did not compare computational complexity to trendline (-0.5)
+Prob. 2: 	22.5/25
+	*Add your own comments to your functions (-1)
+	*Trendline equation not listed (-0.5)
+	*Trendlines should not be linear (-1)
