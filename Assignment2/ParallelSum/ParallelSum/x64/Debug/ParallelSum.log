@@ -1,0 +1,60 @@
+﻿  Global loop optimization report for : ?InitializeArray@@YAXPEANH@Z
+  
+  LOOP BEGIN at Initialization.cpp (6, 0)
+  LOOP END
+  =================================================================
+  
+  Global loop optimization report for : ?ArraySumParallel_ManualPartition@@YANPEAN0HH@Z
+  
+  LOOP BEGIN at ParallelSum.cpp (19, 0)
+  
+      LOOP BEGIN at ParallelSum.cpp (41, 0)
+      LOOP END
+  LOOP END
+  =================================================================
+  
+  Global loop optimization report for : ?ArraySumParallel_Reduction@@YANPEAN0HH@Z
+  
+  LOOP BEGIN at ParallelSum.cpp (72, 0)
+  LOOP END
+  =================================================================
+  
+  Global loop optimization report for : ?ArraySumParallel_ManualPartition@@YANPEAN0HH@Z.extracted
+  
+  LOOP BEGIN at ParallelSum.cpp (34, 0)
+  LOOP END
+  =================================================================
+  
+  Global loop optimization report for : ?ArraySumParallel_Reduction@@YANPEAN0HH@Z_tree_reduce_8
+  =================================================================
+  
+  Global loop optimization report for : ?ArraySumParallel_Reduction@@YANPEAN0HH@Z.extracted
+  
+  LOOP BEGIN at ParallelSum.cpp (87, 0)
+  LOOP END
+  =================================================================
+  
+  Global loop optimization report for : main
+  =================================================================
+  
+  Global loop optimization report for : ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z
+  
+  LOOP BEGIN at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29333\include\ostream (748, 0)
+  LOOP END
+  
+  LOOP BEGIN at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29333\include\ostream (761, 0)
+  LOOP END
+  =================================================================
+  
+  Global loop optimization report for : ??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+  =================================================================
+  
+  Global loop optimization report for : ?ArraySumSequential@@YANPEAN0H@Z
+  
+  LOOP BEGIN at SequentialSum.cpp (9, 0)
+  
+      LOOP BEGIN at SequentialSum.cpp (13, 0)
+      LOOP END
+  LOOP END
+  =================================================================
+  

@@ -1,0 +1,11 @@
+Total Score:  27.5/30
+
+Prob. 1:  20/20
+Prob. 2:  2.5/2.5
+Prob. 3:  2/2.5
+	* Show your math next time. Your answer is right. (-0.5)
+Prob. 4:  2/2.5
+	* If N=10.1, round up to 11 CPUs to achieve at least double the speedup. (-0.5)
+Prob. 5:  1/2.5
+	* Use the calculation for tp in Amdahl's law to solve for execution times, not the speedup. (-1)
+	* Show your math next time. (-0.5)

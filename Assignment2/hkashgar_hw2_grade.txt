@@ -1,0 +1,6 @@
+Total Score:  30/30
+
+Manual Partitioning and Without Race Condition:  		7.5/7.5
+Manual Partitioning and Reduction Without Race Condition: 	7.5/7.5
+Execution and Report:						15/15
+

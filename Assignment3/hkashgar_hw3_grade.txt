@@ -1,0 +1,12 @@
+Total Score:  27/30
+
+Prob. 1:  	2/4
+	*Range of "i" and "j" iterations not indicated (-1)
+	*Both dependencies not identified (flow and anti) (-0.5)
+	*Use arrow to show which ways dependencies go (-0.5)
+Prob. 2: 	4/4
+Prob. 3:	9/10
+	*To find the computational complexity, fit a line ("power" trendline in excel) to the plot of time vs array size.
+	*The exponent of this trendline is the computational complexity of the algorithm.
+	*The computational complexity of parallel and sequential versions should be the same because the alrorithm is the same. (-1)
+Prob. 4:	12/12
